@@ -1,0 +1,3 @@
+rootProject.name = 'pedraPapelTesoura'
+
+include ':app'
